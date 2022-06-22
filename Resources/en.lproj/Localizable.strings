@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  AppLngDemo
+
+  Created by Vinod Vishwakarma on 22/06/22.
+  
+*/
+
+//home
+"t_name" = "Vinod";
+
+
+
+// Drink List
+/*
+ Alway use the dot so that its create the clean generated file
+ */
+"Demo.Navigation.Title" = "Drinks";
+"Demo.Navigation.Button.LearnMore" = "Learn More";
+
